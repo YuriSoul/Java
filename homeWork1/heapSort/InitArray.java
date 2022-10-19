@@ -1,5 +1,3 @@
-package developer.secondQuarter.homeWork1.heapSort;
-
 public class InitArray {
     static long[] arr; // ссылка на сортируемый массив
     private int nElems; // количество элементов данных

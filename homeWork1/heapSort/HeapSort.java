@@ -1,5 +1,3 @@
-package developer.secondQuarter.homeWork1.heapSort;
-
 // СОРТИРОВКА МАССИВА
 // Реализация пирамидальной сортировки на Java
 public class HeapSort {

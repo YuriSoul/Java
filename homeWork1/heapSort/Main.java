@@ -1,7 +1,3 @@
-package developer.secondQuarter.homeWork1.heapSort;
-
-import developer.secondQuarter.utility.random.RandInt;
-
 public class Main {
     public static void main(String[] args) {
 
