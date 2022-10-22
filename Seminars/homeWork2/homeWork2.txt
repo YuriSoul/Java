@@ -1,0 +1,2 @@
+https://github.com/YuriSoul/Java.git
+folder: Seminars/homeWork2

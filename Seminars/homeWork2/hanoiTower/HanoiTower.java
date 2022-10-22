@@ -1,4 +1,5 @@
 package Seminars.homeWork2.hanoiTower;
+// Задача о Ханойской башне
 
 public class HanoiTower {
     public void move(int disks, int source, int auxiliary, int target)
@@ -18,22 +19,4 @@ public class HanoiTower {
             move(disks - 1, auxiliary, source, target);
         }
     }
-}   
-
-
-// Задача о Ханойской башне
-
-
-// Скачать  Выполнить код
-
-// Output:
- 
-// Move disk 1 from 1 —> 3
-// Move disk 2 from 1 —> 2
-// Move disk 1 from 3 —> 2
-// Move disk 3 from 1 —> 3
-// Move disk 1 from 2 —> 1
-// Move disk 2 from 2 —> 3
-// Move disk 1 from 1 —> 3
-    
-// }
+}
